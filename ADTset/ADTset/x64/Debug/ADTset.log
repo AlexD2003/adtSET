@@ -1,0 +1,11 @@
+﻿  App.cpp
+  ExtendedTest.cpp
+C:\Users\Alex\source\repos\ADTset\ExtendedTest.cpp(166,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Alex\source\repos\ADTset\ExtendedTest.cpp(173,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Alex\source\repos\ADTset\ExtendedTest.cpp(227,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\Alex\source\repos\ADTset\ExtendedTest.cpp(234,20): warning C4101: 'ex': unreferenced local variable
+  Set.cpp
+  SetIterator.cpp
+  ShortTest.cpp
+  Generating Code...
+  ADTset.vcxproj -> C:\Users\Alex\source\repos\ADTset\x64\Debug\ADTset.exe
